@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="9" time="0.252112">
+<testcase classname="Smoke Test Cases" name="Scenario1" time="0.244553">
+<system-out><![CDATA[Given Smoke Test Case One...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Smoke Test Cases" name="Scenario2" time="0.000292">
+<system-out><![CDATA[Given Smoke Test Case Two...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Smoke Test Cases" name="Scenario3" time="0.000284">
+<system-out><![CDATA[Given Smoke Test Case Three.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Smoke Test Cases" name="Scenario4" time="0.000311">
+<system-out><![CDATA[Given Smoke Test Case four..................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Smoke Test Cases" name="Scenario5" time="0.000293">
+<system-out><![CDATA[Given Smoke Test Case five..................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Smoke Test Cases" name="Scenario6" time="0.000361">
+<system-out><![CDATA[Given Smoke Test Case six...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Smoke Test Cases" name="Scenario8" time="0.005269">
+<system-out><![CDATA[Given Smoke Test Case eight "Anvai" and "Jawaji"............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Smoke Test Cases" name="Scenario7" time="0.000498">
+<system-out><![CDATA[Given Smoke Test Case with "Gagan" and "Gagan"..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Smoke Test Cases" name="Scenario7_2" time="0.000251">
+<system-out><![CDATA[Given Smoke Test Case with "Abhi" and "Abhi"................................passed
+]]></system-out>
+</testcase>
+</testsuite>
