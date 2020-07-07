@@ -13,16 +13,38 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src/test/resources"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Java"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/jetty-repacked-9.4.12.v20180830.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/selenium-edge-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/selenium-opera-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/selenium-safari-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/selenium-server-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/selenium-server/snakeyaml-1.19.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
